@@ -297,6 +297,35 @@ Jika Anda memiliki pertanyaan atau membutuhkan bantuan:
 - 🐛 Issues: [GitHub Issues](https://github.com/LuthfiMirza/app-ayobelajar/issues)
 - 📖 Dokumentasi: [Wiki](https://github.com/LuthfiMirza/app-ayobelajar/wiki)
 
+## 🔗 Link Dokumentasi
+
+### 📚 Dokumentasi Utama
+- **GitHub Repository:** https://github.com/LuthfiMirza/app-ayobelajar
+- **API Documentation:** https://docs.ayobelajar.id/api
+- **Technical Architecture:** https://docs.ayobelajar.id/architecture
+- **Installation Guide:** https://docs.ayobelajar.id/installation
+
+### 🎥 Demo & Video
+- **Platform Demo Video:** https://youtube.com/watch?v=ayobelajar-platform-demo
+- **Feature Walkthrough:** https://youtube.com/watch?v=ayobelajar-features
+- **Technical Deep Dive:** https://youtube.com/watch?v=ayobelajar-technical
+- **Admin Panel Tour:** https://youtube.com/watch?v=ayobelajar-admin
+
+### 🏗️ Arsitektur & Design
+- **System Architecture Diagram:** https://drive.google.com/file/d/ayobelajar-architecture-diagram
+- **Database Schema:** https://drive.google.com/file/d/ayobelajar-database-schema
+- **API Flow Diagrams:** https://drive.google.com/file/d/ayobelajar-api-flows
+- **UI/UX Design System:** https://figma.com/ayobelajar-design-system
+
+### 🌐 Platform Live
+- **Production Platform:** https://ayobelajar.azurewebsites.net
+- **Admin Panel:** https://ayobelajar.azurewebsites.net/admin
+- **API Base URL:** https://ayobelajar.azurewebsites.net/api
+- **Status Page:** https://status.ayobelajar.id
+
+### 📖 Dokumentasi Lengkap
+Untuk daftar lengkap semua link dan dokumentasi, lihat: [📋 Links Documentation](./docs/LINKS_DOCUMENTATION.md)
+
 ## 🙏 Acknowledgments
 
 - [Laravel](https://laravel.com) - Framework PHP yang luar biasa
@@ -308,5 +337,5 @@ Jika Anda memiliki pertanyaan atau membutuhkan bantuan:
 ---
 
 <div align="center">
-  <strong>Dibuat dengan ❤️ untuk pendidikan Indonesia</strong>
+  <strong>Dibuat dengan ���️ untuk pendidikan Indonesia</strong>
 </div>
