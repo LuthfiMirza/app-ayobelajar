@@ -1,0 +1,16 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="24" cy="24" r="24" fill="#E6D9FF"/>
+    
+    <!-- Face Shape -->
+    <circle cx="24" cy="20" r="10" fill="#7857C1"/>
+    
+    <!-- Body Shape -->
+    <path d="M12 48C12 41.3726 17.3726 36 24 36C30.6274 36 36 41.3726 36 48" fill="#7857C1"/>
+    
+    <!-- Hair -->
+    <path d="M14 18C14 14 18 10 24 10C30 10 34 14 34 18C34 22 30 20 24 20C18 20 14 22 14 18Z" fill="#3B325F"/>
+    
+    <!-- Smile -->
+    <path d="M20 20C20 20 22 22 24 22C26 22 28 20 28 20" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

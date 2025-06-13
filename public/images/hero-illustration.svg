@@ -1,0 +1,30 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Elements -->
+    <circle cx="300" cy="200" r="180" fill="#E6D9FF" opacity="0.3"/>
+    <circle cx="320" cy="180" r="150" fill="#FFDFD3" opacity="0.2"/>
+    
+    <!-- Laptop Base -->
+    <path d="M200 180 L400 180 L420 280 L180 280 Z" fill="#7857C1"/>
+    <rect x="220" y="100" width="160" height="120" rx="8" fill="#A094E0"/>
+    
+    <!-- Screen Content -->
+    <rect x="230" y="110" width="140" height="90" rx="4" fill="#FFFFFF"/>
+    <rect x="240" y="120" width="80" height="8" rx="4" fill="#E6D9FF"/>
+    <rect x="240" y="135" width="120" height="4" rx="2" fill="#D0C9F0"/>
+    <rect x="240" y="145" width="100" height="4" rx="2" fill="#D0C9F0"/>
+    
+    <!-- Floating Elements -->
+    <circle cx="180" cy="140" r="20" fill="#FFDFD3"/>
+    <circle cx="420" cy="160" r="15" fill="#AEE9D0"/>
+    <circle cx="380" cy="100" r="12" fill="#FFDDAA"/>
+    
+    <!-- Book Stack -->
+    <rect x="440" y="200" width="40" height="60" rx="4" fill="#E6D9FF"/>
+    <rect x="445" y="180" width="40" height="60" rx="4" fill="#A094E0"/>
+    <rect x="450" y="160" width="40" height="60" rx="4" fill="#7857C1"/>
+    
+    <!-- Graduation Cap -->
+    <path d="M120 160 L160 140 L200 160 L160 180 Z" fill="#7857C1"/>
+    <rect x="155" y="160" width="10" height="30" fill="#7857C1"/>
+    <circle cx="165" cy="190" r="5" fill="#A094E0"/>
+</svg>
