@@ -287,7 +287,8 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## 👥 Tim Pengembang
 
-- **Luthfi Mirza** - *Lead Developer* - [@LuthfiMirza](https://github.com/LuthfiMirza)
+- **Luthfi Mirza Darsono** - *Lead Developer* - [LuthfiMirza2004@gmail.com](https://www.linkedin.com/in/luthfi-mirza-darsono-675663242/)
+- **Muhammad Alwan Farras** - *Full Stack DEV* - [alwanfarras711@gmail.com](https://www.linkedin.com/in/muhammad-alwan-farras-76829728b/)
 
 ## 📞 Dukungan
 
